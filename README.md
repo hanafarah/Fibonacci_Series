@@ -1,5 +1,6 @@
 # Fibonacci_Series Iterable
 
+### Requirements:
 Write an iterable which produces an iterator of the Fibonacci series for a
 given value.
 
@@ -9,7 +10,7 @@ Example:
 >>> [number for number in Fibonacci(10)]
 [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 ```
-
+### TDD: 
 Using TDD methodology, develop an algorithm to assert the following test
 cases.
 
